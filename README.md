@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------------------------------------------  
 
-The main purpose of this folder is to get familar with three open source machine learning library:  
+The main purpose of this repository is to get familar with three open source machine learning library:  
   --pytorch  
   --keras  
   --gluon  
