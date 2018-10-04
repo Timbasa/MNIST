@@ -1,1 +1,1 @@
-#MNIST using pytorch  
+# MNIST using pytorch  
